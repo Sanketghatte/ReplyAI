@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reply AI</string>
+    <string name="accessibility_description">Reply AI reads tweet content so you can generate instant AI replies without typing. No data is stored or shared.</string>
+</resources>

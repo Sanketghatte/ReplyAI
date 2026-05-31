@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ReplyAI" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#5B4FE8</item>
+        <item name="colorPrimaryDark">#4038C8</item>
+        <item name="colorAccent">#5B4FE8</item>
+        <item name="android:windowBackground">#F5F5FA</item>
+    </style>
+    <style name="Theme.ReplyAI.TransparentActivity" parent="Theme.ReplyAI">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>
